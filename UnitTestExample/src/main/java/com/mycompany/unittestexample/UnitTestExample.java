@@ -89,6 +89,21 @@ public class UnitTestExample {
                      System.out.println("The number entered is " + resultadotipo + ".");
                 
                 break;
+                
+                
+                
+                
+                
+                
+                 case "5":
+                
+                     System.out.println("Commit Branch");    
+                     
+                     
+                     
+                     
+                     
+                break;
             default:
                 throw new AssertionError();
                        
